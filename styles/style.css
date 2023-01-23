@@ -5,6 +5,16 @@ body {
     text-align: center;
 }
 
+#cabecera {
+    border: 10px solid rgb(1, 1, 202);
+    background-color: blue;
+    color: white;
+    font: 60px bold;
+    font-family: calibri;
+    text-align: left;
+}
+
 #articulo {
-    border: 5px solid gray;
+    border: 5px solid gray; 
+    font-family: Courier;
 }
